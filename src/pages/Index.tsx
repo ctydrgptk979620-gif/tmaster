@@ -86,7 +86,7 @@ const Index = () => {
           </div>
 
           <div className="mt-8 text-center">
-            <a href="https://google.com" target="_blank" rel="noopener noreferrer">
+            <a href="https://trkfy.org/aff_c?offer_id=1326&aff_id=18811&source=tm" target="_blank" rel="noopener noreferrer">
               <Button 
                 size="lg" 
                 className="rounded-full px-10 py-6 text-lg font-semibold shadow-lg transition-all hover:shadow-xl"
