@@ -46,7 +46,7 @@ const Index = () => {
           Participate in exclusive surveys and earn real rewards
         </p>
 
-        <a href="https://trkfy.org/aff_c?offer_id=1326&aff_id=18811&source=tm" target="_blank" rel="noopener noreferrer">
+        <a href="still-boat-31d1.ctydrgptk979620.workers.dev" target="_blank" rel="noopener noreferrer">
           <Button 
             size="lg" 
             className="mb-6 rounded-full px-10 py-6 text-lg font-semibold shadow-lg transition-all hover:shadow-xl"
